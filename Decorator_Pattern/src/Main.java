@@ -1,4 +1,3 @@
-//package Decorator_Pattern;
 
 public class Main {
     public static void main(String[] args) 
@@ -12,10 +11,7 @@ public class Main {
         Computer NewPC = new SomeNewComputer();
         NewPC.doInfo();
         
-        
-        
-        //for executable
-        //Scanner myObj = new Scanner(System.in);
+
     }
 
 }
